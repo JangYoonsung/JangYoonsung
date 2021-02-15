@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...  Game, Fashion, Food
 
 <h1 style=text-align: center>Tech Stack</h1>
-<div style=display: flex; text-align: center;>
+<div style=display: flex text-align: center>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-db4237?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-e3d730?style=flat-square&logo=javascript&logoColor=white"/>

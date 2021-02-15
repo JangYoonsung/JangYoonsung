@@ -4,7 +4,7 @@ Game, Fashion, Food
 
 <h1>Thec Stack</h1>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-RedAB?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-db4237?style=flat-square&logo=Java&logoColor=white"/>
 
 <!---
 sinhyez/sinhyez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

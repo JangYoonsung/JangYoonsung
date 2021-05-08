@@ -1,5 +1,4 @@
-- 👋 Hi, I’m yoonsung
-- 👀 I’m interested in ...  Game, Fashion, Food
+<h1 align="center">Hi</h1>
 
 <h1 align="center">Tech Stack</h1>
 <div align="center" style=display: flex>

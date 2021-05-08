@@ -1,4 +1,4 @@
-Hi　👋
+Hi my name is yoonsung👋
 
 <h1 align="center">Tech Stack</h1>
 <div align="center" style=display: flex>

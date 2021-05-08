@@ -1,4 +1,4 @@
-<span align="center" style=font-size: 25px>Hi👋</h1>
+Hi👋
 
 <h1 align="center">Tech Stack</h1>
 <div align="center" style=display: flex>

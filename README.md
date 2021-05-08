@@ -1,8 +1,6 @@
 - 👋 Hi, I’m yoonsung
 - 👀 I’m interested in ...  Game, Fashion, Food
-<style>
-  h1: { text-align:center }
-</style>
+
 <h1>Tech Stack</h1>
 <div style=display: flex>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>

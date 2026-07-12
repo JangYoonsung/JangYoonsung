@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=460&lines=Backend+Engineer;Tokyo%2C+Japan" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  ![Location](https://img.shields.io/badge/Tokyo-000000?style=flat-square&logo=googlemaps&logoColor=white)
-</div>
-
 ---
 
 ### 🛠 Tech Stack

@@ -1,16 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:004386,100:00B4D8&height=200&section=header&text=Yoonsung%20Jang&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Software%20Engineer%20@%20Luup&descAlignY=52&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004386,100:00B4D8&height=200&section=header&text=Yoonsung%20Jang&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Software%20Engineer&descAlignY=52&descSize=18)
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=460&lines=Backend+Engineer+%40+Luup;Tokyo%2C+Japan;Micromobility+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=460&lines=Backend+Engineer;Tokyo%2C+Japan" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-  [![Company](https://img.shields.io/badge/Luup-004386?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNSAyIDIgNi41IDIgMTJzNC41IDEwIDEwIDEwIDEwLTQuNSAxMC0xMFMxNy41IDIgMTIgMnoiLz48L3N2Zz4=&logoColor=white)](https://luup.sc/)
   ![Location](https://img.shields.io/badge/Tokyo-000000?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -35,14 +34,22 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-navy.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=dark&border_color=30363d" />
-  <img src="https://github-readme-stats-navy.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=default&border_color=e1e4e8" width="49%" alt="Yoonsung's github stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=JangYoonsung&layout=compact&theme=dark&border_color=30363d" />
-  <img src="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=JangYoonsung&layout=compact&hide_border=true&theme=default" width="35%" alt="Top languages" />
+  <img src="https://github-readme-stats-navy.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=default&border_color=e1e4e8" width="60%" alt="Yoonsung's github stats" />
 </picture>
 
 </div>
+
+<!-- LANG-STATS:START -->
+<p align="center"><sub>Top Languages (by bytes across public repos, auto-updated)</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-34.3%25-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-26.4%25-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-16.0%25-3572A5?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-10.8%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4.3%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-3.7%25-563D7C?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+<!-- LANG-STATS:END -->
 
 <div align="center">
 

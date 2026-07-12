@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:004386,100:00B4D8&height=200&section=header&text=Yoonsung%20Jang&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20@%20Luup&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004386,100:00B4D8&height=200&section=header&text=Yoonsung%20Jang&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Software%20Engineer%20@%20Luup&descAlignY=52&descSize=18)
 
 </div>
 
@@ -33,8 +33,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-ten.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=default&title_color=004386&icon_color=00B4D8&text_color=333333&border_color=e1e4e8" width="49%" alt="Yoonsung's github stats" />
-  <img src="https://github-readme-stats-sigma-ten.vercel.app/api/top-langs/?username=JangYoonsung&layout=compact&hide_border=true&title_color=004386&icon_color=00B4D8&text_color=333333&border_color=e1e4e8" width="35%" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-navy.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=dark&border_color=30363d" />
+  <img src="https://github-readme-stats-navy.vercel.app/api?username=JangYoonsung&show_icons=true&count_private=true&theme=default&border_color=e1e4e8" width="49%" alt="Yoonsung's github stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=JangYoonsung&layout=compact&theme=dark&border_color=30363d" />
+  <img src="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=JangYoonsung&layout=compact&hide_border=true&theme=default" width="35%" alt="Top languages" />
+</picture>
 
 </div>
 
@@ -46,13 +52,19 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=JangYoonsung&theme=default&border_color=e1e4e8&background=FFFFFF00&stroke=004386&ring=00B4D8&fire=00B4D8&currStreakLabel=004386" alt="streak stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JangYoonsung&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=JangYoonsung&theme=default" alt="streak stats" />
+</picture>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JangYoonsung&bg_color=FFFFFF00&color=004386&line=00B4D8&point=004386&hide_border=true" alt="activity graph" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JangYoonsung&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JangYoonsung&bg_color=ffffff&color=004386&line=00B4D8&point=004386&hide_border=true" alt="activity graph" width="90%" />
+</picture>
 
 </div>
 

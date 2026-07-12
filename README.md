@@ -9,9 +9,7 @@
 </p>
 
 <div align="center">
-
   ![Location](https://img.shields.io/badge/Tokyo-000000?style=flat-square&logo=googlemaps&logoColor=white)
-
 </div>
 
 ---

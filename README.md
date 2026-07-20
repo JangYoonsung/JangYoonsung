@@ -36,11 +36,11 @@
 <!-- LANG-STATS:START -->
 <p align="center"><sub>Top Languages (by bytes across public repos, auto-updated)</sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-48.0%25-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-20.6%25-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-12.4%25-3572A5?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-8.4%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-4.2%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-48.2%25-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-20.3%25-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-12.5%25-3572A5?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-8.5%25-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4.0%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS-2.9%25-563D7C?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 <!-- LANG-STATS:END -->
